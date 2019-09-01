@@ -524,7 +524,7 @@ ul.social-list li:nth-child(2) a:hover {
   top: -35px;
 }
 #statement {
-  background: url("img/state.jpg");
+  background: url("../specs.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
